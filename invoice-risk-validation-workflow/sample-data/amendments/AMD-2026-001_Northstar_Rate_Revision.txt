@@ -1,0 +1,13 @@
+Amendment 1 - Cloud Monitoring Rate Revision
+Amendment ID: AMD-2026-001
+Related Contract: MSA-2025-017
+
+Vendor: Northstar Cloud Services Pvt Ltd
+Customer: Apex Retail Ltd
+
+Signed Date: 20 April 2026
+Effective Date: 1 May 2026
+
+The monthly fee for Cloud infrastructure monitoring services is revised from INR 450,000 to INR 425,000 plus applicable GST.
+
+All other terms of MSA-2025-017 remain unchanged.

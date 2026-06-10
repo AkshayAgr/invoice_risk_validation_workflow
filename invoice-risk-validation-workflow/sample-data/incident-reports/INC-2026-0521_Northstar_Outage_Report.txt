@@ -1,0 +1,19 @@
+Incident Report: INC-2026-0521
+Customer: Apex Retail Ltd
+Vendor: Northstar Cloud Services Pvt Ltd
+Service: Cloud infrastructure monitoring services
+
+Incident Date: 21 May 2026
+Incident Start: 10:00 AM
+Incident End: 1:00 PM
+Downtime: 180 minutes
+
+Summary:
+Cloud monitoring platform was unavailable from 10:00 AM to 1:00 PM on 21 May 2026.
+
+Root Cause:
+Vendor monitoring gateway failure.
+
+Scheduled Maintenance: No
+Customer-caused outage: No
+Force majeure: No

@@ -1,0 +1,22 @@
+Invoice No: INV-2026-014
+Invoice Date: 31 May 2026
+Due Date: 30 June 2026
+
+Vendor: Northstar Cloud Services Pvt Ltd
+Vendor GSTIN: 29ABCDE1234F1Z5
+Customer: Apex Retail Ltd
+
+PO Number: PO-44891
+Contract Ref: MSA-2025-017
+Payment Terms: Net 30
+
+Line Item 1:
+Description: Cloud infrastructure monitoring services
+Service Period: 1 May 2026 to 31 May 2026
+Quantity: 1
+Unit Price: INR 450000
+Line Amount: INR 450000
+
+Subtotal: INR 450000
+GST: INR 81000
+Total Amount Due: INR 531000

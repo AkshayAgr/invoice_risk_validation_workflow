@@ -1,0 +1,55 @@
+{
+  "name": "final_invoice_decision_result",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "invoice_number": {
+        "type": ["string", "null"]
+      },
+      "decision_status": {
+        "type": "string",
+        "enum": ["APPROVE", "APPROVE_WITH_DEDUCTION", "HOLD_FOR_REVIEW", "REJECT", "ESCALATE"]
+      },
+      "risk_score": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 100
+      },
+      "risk_level": {
+        "type": "string",
+        "enum": ["LOW", "MEDIUM", "HIGH", "CRITICAL"]
+      },
+      "currency": {
+        "type": ["string", "null"]
+      },
+      "invoice_summary": {
+        "type": "object"
+      },
+      "financial_reconciliation": {
+        "type": "object"
+      },
+      "decision_rationale": {
+        "type": "object"
+      },
+      "risk_flags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "invoice_number",
+      "decision_status",
+      "risk_score",
+      "risk_level",
+      "currency",
+      "invoice_summary",
+      "financial_reconciliation",
+      "decision_rationale",
+      "risk_flags"
+    ],
+    "additionalProperties": false
+  },
+  "strict": true
+}
