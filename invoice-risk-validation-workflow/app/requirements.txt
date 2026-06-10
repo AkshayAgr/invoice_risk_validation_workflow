@@ -1,4 +1,0 @@
--r requirements-api.txt
-
-requests>=2.32,<3
-streamlit>=1.44,<2
