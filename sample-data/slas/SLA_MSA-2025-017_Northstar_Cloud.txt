@@ -1,0 +1,13 @@
+SLA Schedule for MSA-2025-017
+
+Service: Cloud infrastructure monitoring services
+Monthly uptime target: 99.9%
+
+Service Credit:
+If monthly uptime falls below 99.9%, customer shall receive a service credit equal to 5% of the monthly service fee.
+
+Maximum Credit Cap:
+Service credits shall not exceed 10% of the monthly service fee.
+
+Exclusions:
+Scheduled maintenance, customer-caused outage, and force majeure events are excluded.
