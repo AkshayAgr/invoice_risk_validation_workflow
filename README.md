@@ -4,6 +4,10 @@ A production-oriented Microsoft Foundry workflow for validating invoices against
 
 All repository data is synthetic. The workflow produces a payment **recommendation** and always requires human approval.
 
+## Demo Video
+
+Watch the project demo here: https://drive.google.com/file/d/1JD4d1PDyUokmOTb_sph1ecgpjowByS-V/view?usp=sharing
+
 ## What Is Included
 
 - Nine versioned Foundry agent instructions and workflow guardrails
